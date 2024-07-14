@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Annab-l.github.io/sitemap.xml
+Sitemap: https://annab-l.github.io/sitemap.xml
